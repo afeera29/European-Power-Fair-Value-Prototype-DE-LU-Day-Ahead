@@ -69,7 +69,7 @@ The model was validated using an **Expanding Window Walk-Forward** approach (5 F
 
 **Feature Audit** : The feature_importance_audit.csv provides a mathematical rank of every driver, allowing traders to verify the "weight" of renewables vs. load in every prediction.
 
-## AI-Accelerated Workflow (Requirement #4)
+## AI-Accelerated Workflow
 A **Programmatic AI Agent** (`src/ai_agent.py`) was implemented that acts as a "Junior Trader."
 * **Engineering Multiplier:** Instead of manual analysis, the AI is called via the **Gemini API** to generate a "Morning Note."
 * **Grounding:** The LLM is strictly fed the computed metrics (Residual Load, Edge, Fair Value) to prevent hallucinations.
