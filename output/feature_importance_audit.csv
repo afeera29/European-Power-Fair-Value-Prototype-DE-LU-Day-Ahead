@@ -1,0 +1,11 @@
+feature,importance
+residual_load,27.311268
+price_lag_24h,4.664963
+re_penetration,3.2694054
+price_lag_168h,2.6383884
+solar_share,2.1296766
+solar_peak_impact,1.9660915
+hour_sin,1.4641421
+wind_share,0.6784969
+is_weekend,0.597016
+hour_cos,0.45825928

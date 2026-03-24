@@ -1,0 +1,1 @@
+As an Energy Analyst, identify 2 risks in these German Power stats: {'price_min': -250.32, 'price_max': 583.4}.
